@@ -1,0 +1,13 @@
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\bin\Debug\netcoreapp3.1\BrigandoEAnimando.exe
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\bin\Debug\netcoreapp3.1\BrigandoEAnimando.deps.json
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\bin\Debug\netcoreapp3.1\BrigandoEAnimando.runtimeconfig.json
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\bin\Debug\netcoreapp3.1\BrigandoEAnimando.runtimeconfig.dev.json
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\bin\Debug\netcoreapp3.1\BrigandoEAnimando.dll
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\bin\Debug\netcoreapp3.1\BrigandoEAnimando.pdb
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\obj\Debug\netcoreapp3.1\BrigandoEAnimando.csprojAssemblyReference.cache
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\obj\Debug\netcoreapp3.1\BrigandoEAnimando.csproj.CoreCompileInputs.cache
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\obj\Debug\netcoreapp3.1\BrigandoEAnimando.AssemblyInfoInputs.cache
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\obj\Debug\netcoreapp3.1\BrigandoEAnimando.AssemblyInfo.cs
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\obj\Debug\netcoreapp3.1\BrigandoEAnimando.dll
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\obj\Debug\netcoreapp3.1\BrigandoEAnimando.pdb
+C:\Users\DeCASA\Source\Repos\BrigandoEAnimando\BrigandoEAnimando\obj\Debug\netcoreapp3.1\BrigandoEAnimando.genruntimeconfig.cache
